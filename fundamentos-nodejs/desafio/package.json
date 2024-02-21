@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --no-warnings src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-generate": "^4.3.1",
+    "csv-parse": "^5.5.3"
+  }
+}
